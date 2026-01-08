@@ -45,3 +45,9 @@ Every lab includes:
 ---
 
 ## 📁 Structure
+home-lab/
+│── README.md
+│── architecture-diagrams/
+│── configs/
+│── screenshots/
+│── labs/
